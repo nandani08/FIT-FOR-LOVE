@@ -26,10 +26,10 @@ Main Technologies used in creating this project include:
 # Lessons Learned
 Creating a static website (Fit For Love), taught us several skills like:
 
-HTML and CSS: We learnt about different HTML elements, attributes, selectors and CSS properties.
-Basic JavaScript: We learnt to incorporate some interactive elements or simple scripts for enhanced user experience.
-Responsive Design: We learnt to make the inteface user friendly and convenient by adding various transitions.
-Version Control: We learnt to use tools like Git and GitHub or version control to track changes in codebase and manage project efficiently.
+1.HTML and CSS: We learnt about different HTML elements, attributes, selectors and CSS properties.
+2.Basic JavaScript: We learnt to incorporate some interactive elements or simple scripts for enhanced user experience.
+3.Responsive Design: We learnt to make the inteface user friendly and convenient by adding various transitions.
+4.Version Control: We learnt to use tools like Git and GitHub or version control to track changes in codebase and manage project efficiently.
 Web Hosting and Deployment:
 
 # Authors
